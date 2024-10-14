@@ -24,5 +24,4 @@ Clona este repositorio:
 ```sh
 git clone https://github.com/MateoPalotta/LogIn-RN1
 
-asdsa
 
