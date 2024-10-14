@@ -21,6 +21,8 @@ El BackEnd con (php, python o java) y la base de datos con mysql (Xampp o Wamp)
 
 Clona este repositorio:
 
-```bash
+```sh
 git clone https://github.com/MateoPalotta/LogIn-RN1
+
+asdsa
 
