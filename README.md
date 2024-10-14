@@ -19,7 +19,8 @@ El BackEnd con (php, python o java) y la base de datos con mysql (Xampp o Wamp)
 
 ### 1. Clonar el Repositorio
 
-Clona este repositorio en tu máquina local usando:
+Clona este repositorio:
 
 ```bash
 git clone https://github.com/MateoPalotta/LogIn-RN1
+
