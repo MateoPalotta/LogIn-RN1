@@ -17,5 +17,10 @@ El BackEnd con (php, python o java) y la base de datos con mysql (Xampp o Wamp)
 
 ## Fotos de la App
 
-![Descripción de la imagen](./accesoApp/assets/Inicio-Sesion.png)
+![Inicio Sesion](./accesoApp/assets/Inicio-Sesion.png)
+![Inicio Sesion](./accesoApp/assets/Registro.png)
+![Inicio Sesion](./accesoApp/assets/Registro-con-Datos.png)
+![Inicio Sesion](./accesoApp/assets/Registro-exitoso.png)
+![Inicio Sesion](./accesoApp/assets/Inicio-Sesion-con-datos.png)
+![Inicio Sesion](./accesoApp/assets/Bienvenido.png)
 
