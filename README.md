@@ -15,13 +15,7 @@ El BackEnd con (php, python o java) y la base de datos con mysql (Xampp o Wamp)
 - [Node.js](https://nodejs.org/) (incluye npm)
 - [Expo CLI](https://docs.expo.dev/get-started/installation/)
 
-## Instalación
+## Fotos de la App
 
-### 1. Clonar el Repositorio
-
-Clona este repositorio:
-
-```sh
-git clone https://github.com/MateoPalotta/LogIn-RN1
-
+![Descripción de la imagen](./images/mi-imagen.png)
 
